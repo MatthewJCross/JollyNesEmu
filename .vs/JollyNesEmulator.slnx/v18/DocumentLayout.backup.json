@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\JollyNesEmulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C801B64A-BADE-6922-CA60-5B19E1C54032}|JollyNesEmulator\\JollyNesEmulator.csproj|d:\\projects\\jollynesemulator\\jollynesemulator\\jollynesemulator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{C801B64A-BADE-6922-CA60-5B19E1C54032}|JollyNesEmulator\\JollyNesEmulator.csproj|solutionrelative:jollynesemulator\\jollynesemulator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C801B64A-BADE-6922-CA60-5B19E1C54032}|JollyNesEmulator\\JollyNesEmulator.csproj|d:\\projects\\jollynesemulator\\jollynesemulator\\emulator\\nesaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C801B64A-BADE-6922-CA60-5B19E1C54032}|JollyNesEmulator\\JollyNesEmulator.csproj|solutionrelative:jollynesemulator\\emulator\\nesaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C801B64A-BADE-6922-CA60-5B19E1C54032}|JollyNesEmulator\\JollyNesEmulator.csproj|d:\\projects\\jollynesemulator\\jollynesemulator\\apu\\nesapu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C801B64A-BADE-6922-CA60-5B19E1C54032}|JollyNesEmulator\\JollyNesEmulator.csproj|solutionrelative:jollynesemulator\\apu\\nesapu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C801B64A-BADE-6922-CA60-5B19E1C54032}|JollyNesEmulator\\JollyNesEmulator.csproj|e:\\c64 stuff\\jolly64emu\\jolly64emu\\core\\cpu\\cpu6502.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C801B64A-BADE-6922-CA60-5B19E1C54032}|JollyNesEmulator\\JollyNesEmulator.csproj|d:\\projects\\jollynesemulator\\jollynesemulator\\emulator\\nesmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C801B64A-BADE-6922-CA60-5B19E1C54032}|JollyNesEmulator\\JollyNesEmulator.csproj|solutionrelative:jollynesemulator\\emulator\\nesmachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C801B64A-BADE-6922-CA60-5B19E1C54032}|JollyNesEmulator\\JollyNesEmulator.csproj|d:\\projects\\jollynesemulator\\jollynesemulator\\video\\nesvideorenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C801B64A-BADE-6922-CA60-5B19E1C54032}|JollyNesEmulator\\JollyNesEmulator.csproj|solutionrelative:jollynesemulator\\video\\nesvideorenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C801B64A-BADE-6922-CA60-5B19E1C54032}|JollyNesEmulator\\JollyNesEmulator.csproj|d:\\projects\\jollynesemulator\\jollynesemulator\\ppu\\nesppu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C801B64A-BADE-6922-CA60-5B19E1C54032}|JollyNesEmulator\\JollyNesEmulator.csproj|solutionrelative:jollynesemulator\\ppu\\nesppu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C801B64A-BADE-6922-CA60-5B19E1C54032}|JollyNesEmulator\\JollyNesEmulator.csproj|d:\\projects\\jollynesemulator\\jollynesemulator\\emulator\\nesbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C801B64A-BADE-6922-CA60-5B19E1C54032}|JollyNesEmulator\\JollyNesEmulator.csproj|solutionrelative:jollynesemulator\\emulator\\nesbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C801B64A-BADE-6922-CA60-5B19E1C54032}|JollyNesEmulator\\JollyNesEmulator.csproj|e:\\c64 stuff\\jolly64emu\\jolly64emu\\core\\cpu\\instructionset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JollyNesEmulator",
+              "DocumentMoniker": "D:\\Projects\\JollyNesEmulator\\JollyNesEmulator\\JollyNesEmulator.csproj",
+              "RelativeDocumentMoniker": "JollyNesEmulator\\JollyNesEmulator.csproj",
+              "ToolTip": "D:\\Projects\\JollyNesEmulator\\JollyNesEmulator\\JollyNesEmulator.csproj",
+              "RelativeToolTip": "JollyNesEmulator\\JollyNesEmulator.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-04T10:50:02.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cpu6502.cs",
+              "DocumentMoniker": "E:\\C64 Stuff\\Jolly64Emu\\Jolly64Emu\\Core\\CPU\\Cpu6502.cs",
+              "ToolTip": "E:\\C64 Stuff\\Jolly64Emu\\Jolly64Emu\\Core\\CPU\\Cpu6502.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAcwDIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T09:41:40.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NesApu.cs",
+              "DocumentMoniker": "D:\\Projects\\JollyNesEmulator\\JollyNesEmulator\\Apu\\NesApu.cs",
+              "RelativeDocumentMoniker": "JollyNesEmulator\\Apu\\NesApu.cs",
+              "ToolTip": "D:\\Projects\\JollyNesEmulator\\JollyNesEmulator\\Apu\\NesApu.cs",
+              "RelativeToolTip": "JollyNesEmulator\\Apu\\NesApu.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T09:31:30.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NesAudio.cs",
+              "DocumentMoniker": "D:\\Projects\\JollyNesEmulator\\JollyNesEmulator\\Emulator\\NesAudio.cs",
+              "RelativeDocumentMoniker": "JollyNesEmulator\\Emulator\\NesAudio.cs",
+              "ToolTip": "D:\\Projects\\JollyNesEmulator\\JollyNesEmulator\\Emulator\\NesAudio.cs",
+              "RelativeToolTip": "JollyNesEmulator\\Emulator\\NesAudio.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T09:29:38.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NesMachine.cs",
+              "DocumentMoniker": "D:\\Projects\\JollyNesEmulator\\JollyNesEmulator\\Emulator\\NesMachine.cs",
+              "RelativeDocumentMoniker": "JollyNesEmulator\\Emulator\\NesMachine.cs",
+              "ToolTip": "D:\\Projects\\JollyNesEmulator\\JollyNesEmulator\\Emulator\\NesMachine.cs",
+              "RelativeToolTip": "JollyNesEmulator\\Emulator\\NesMachine.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAYwE0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T08:27:20.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NesVideoRenderer.cs",
+              "DocumentMoniker": "D:\\Projects\\JollyNesEmulator\\JollyNesEmulator\\Video\\NesVideoRenderer.cs",
+              "RelativeDocumentMoniker": "JollyNesEmulator\\Video\\NesVideoRenderer.cs",
+              "ToolTip": "D:\\Projects\\JollyNesEmulator\\JollyNesEmulator\\Video\\NesVideoRenderer.cs",
+              "RelativeToolTip": "JollyNesEmulator\\Video\\NesVideoRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T08:06:04.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NesPpu.cs",
+              "DocumentMoniker": "D:\\Projects\\JollyNesEmulator\\JollyNesEmulator\\Ppu\\NesPpu.cs",
+              "RelativeDocumentMoniker": "JollyNesEmulator\\Ppu\\NesPpu.cs",
+              "ToolTip": "D:\\Projects\\JollyNesEmulator\\JollyNesEmulator\\Ppu\\NesPpu.cs",
+              "RelativeToolTip": "JollyNesEmulator\\Ppu\\NesPpu.cs",
+              "ViewState": "AgIAAK8BAAAAAAAAAAAwwMQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T07:58:37.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NesBus.cs",
+              "DocumentMoniker": "D:\\Projects\\JollyNesEmulator\\JollyNesEmulator\\Emulator\\NesBus.cs",
+              "RelativeDocumentMoniker": "JollyNesEmulator\\Emulator\\NesBus.cs",
+              "ToolTip": "D:\\Projects\\JollyNesEmulator\\JollyNesEmulator\\Emulator\\NesBus.cs",
+              "RelativeToolTip": "JollyNesEmulator\\Emulator\\NesBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T07:56:51.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InstructionSet.cs",
+              "DocumentMoniker": "E:\\C64 Stuff\\Jolly64Emu\\Jolly64Emu\\Core\\CPU\\InstructionSet.cs",
+              "ToolTip": "E:\\C64 Stuff\\Jolly64Emu\\Jolly64Emu\\Core\\CPU\\InstructionSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T07:56:07.441Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

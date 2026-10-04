@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Resources\JollyNesEmu.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="E:\C64 Stuff\Jolly64Emu\Jolly64Emu\Core\CPU\Cpu6502.cs" Link="Cpu\Cpu6502.cs" />
+    <Compile Include="E:\C64 Stuff\Jolly64Emu\Jolly64Emu\Core\CPU\InstructionSet.cs" Link="Cpu\InstructionSet.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\JollyNesEmu.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NAudio" Version="3.1.0" />
+  </ItemGroup>
+
+</Project>
